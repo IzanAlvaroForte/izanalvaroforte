@@ -9,7 +9,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin (Learning)](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **Database**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -40,21 +40,6 @@
 
 ---
 
-### 🚧 Currently Building (Private)
-
-Most of my active work is in private repositories right now. I'm building and committing daily, but these projects aren't public yet. This profile will be updated as soon as they're ready to share.
-
----
-
-### 💪 Strengths
-
-- **Fast learner** — I pick up new tech quickly and apply it immediately.
-- **Systems thinker** — I design before I code. Architecture first.
-- **Security-focused** — I build with security in mind from day one.
-- **Self-sufficient** — I can build and ship alone.
-
----
-
 ### 📈 Adaptability
 
 I don't tie myself to one stack. I learn what the project needs. I've gone from Java to Kotlin, from SQL to NoSQL, from monolith to microservices concepts—because the problem dictates the tool.
@@ -67,6 +52,12 @@ I don't tie myself to one stack. I learn what the project needs. I've gone from 
 - I believe documentation is code for humans.
 - I learn by breaking things and fixing them.
 - I'd rather architect for an hour than debug for ten.
+
+---
+
+### 🚧 Currently Building (Private)
+
+Most of my active work is in private repositories right now. I'm building and committing daily, but these projects aren't public yet. This profile will be updated as soon as they're ready to share.
 
 ---
 
