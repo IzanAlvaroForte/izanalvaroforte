@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Izan Alvaro Forte 👋</h1>
-<h3 align="center">Java Backend Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 ---
 
